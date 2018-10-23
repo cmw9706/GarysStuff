@@ -1,0 +1,11 @@
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/bin/Debug/netcoreapp2.1/GarysStuff.deps.json
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/bin/Debug/netcoreapp2.1/GarysStuff.runtimeconfig.json
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/bin/Debug/netcoreapp2.1/GarysStuff.runtimeconfig.dev.json
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/bin/Debug/netcoreapp2.1/GarysStuff.dll
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/bin/Debug/netcoreapp2.1/GarysStuff.pdb
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/obj/Debug/netcoreapp2.1/GarysStuff.csprojAssemblyReference.cache
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/obj/Debug/netcoreapp2.1/GarysStuff.csproj.CoreCompileInputs.cache
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/obj/Debug/netcoreapp2.1/GarysStuff.AssemblyInfoInputs.cache
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/obj/Debug/netcoreapp2.1/GarysStuff.AssemblyInfo.cs
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/obj/Debug/netcoreapp2.1/GarysStuff.dll
+/Users/cmwilliams/Projects/GarysStuff/GarysStuff/obj/Debug/netcoreapp2.1/GarysStuff.pdb
